@@ -1,2 +1,3 @@
 # AI-for-Medical-Diagnosis
-Here are some of My projects, related to medical diagnosis about Lungs Cancer, Pneumonia, Brain Tumor and Many more.
+#Hello Hoomans!!
+This is my repository on Prediction Model about the diagnosis in Medical Sciences.
